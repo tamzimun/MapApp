@@ -2,7 +2,7 @@
 //  NavigationButton.swift
 //  MapApp4
 //
-//  Created by Aida Moldaly on 29.06.2022.
+//  Created by tamzimun on 29.06.2022.
 //
 
 import UIKit
